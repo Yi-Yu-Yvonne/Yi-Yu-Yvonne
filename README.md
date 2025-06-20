@@ -9,6 +9,6 @@
 ---
 
 📫 **Get in touch**  
-🌐 [Personal Website](https://yi-yu-yvonne.github.io)  
+🌐 [Personal Website](https://yi-yu-yvonne.github.io/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=gAUeAeMAAAAJ)  
 🔗 [LinkedIn](https://www.linkedin.com/in/yi-yu-yvonne/)
