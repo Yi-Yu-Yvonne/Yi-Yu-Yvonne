@@ -5,10 +5,3 @@
 🔬 Former Research Assistant at **Academia Sinica**, Taiwan
 
 💡 Passionate about building efficient, reliable models and tools — and applying them to real-world challenges!
-
----
-
-📫 **Get in touch**  
-🌐 [Personal Website](https://yi-yu-yvonne.github.io/)  
-📚 [Google Scholar](https://scholar.google.com/citations?user=gAUeAeMAAAAJ)  
-🔗 [LinkedIn](https://www.linkedin.com/in/yi-yu-yvonne/)
