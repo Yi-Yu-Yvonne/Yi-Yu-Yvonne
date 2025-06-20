@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Yi (Yvonne) Yu 👋
 
-<!--
-**Yi-Yu-Yvonne/Yi-Yu-Yvonne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS student in Computer Science and Engineering at **The Ohio State University**, USA  
+🇹🇼 B.S. from **National Chengchi University**, Taiwan  
+🔬 Previously at **Academia Sinica**, TW
 
-Here are some ideas to get you started:
+💡 Passionate about building efficient, reliable models and tools — and applying them to real-world challenges!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Get in touch**  
+🌐 [Personal Website](https://yi-yu-yvonne.github.io/Yi-Yu-Yvonne/)  
+📚 [Google Scholar](https://scholar.google.com/citations?user=gAUeAeMAAAAJ)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yi-yu-yvonne/)
